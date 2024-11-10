@@ -1,3 +1,4 @@
+![Screenshot (29)](https://github.com/user-attachments/assets/5e02dd6d-9342-435b-a781-d1e786ef5e90)
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:
 
